@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA remove message APIs "
+  message: "1111 Welcome to EazyBank accounts related QA remove message APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}70405c62f2975b2a10acdd7204d4edce254f47ed74ebb365a6d1863883c6fd54504bc577d9e063e2203aace437012a79"
