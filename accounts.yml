@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "4367911329ff7164dda5c60d1c465c8fcbc97dabb132ec0e3ab9107e58f9f0464ec277f3a99eac65c8509eaa3ff45d23"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
